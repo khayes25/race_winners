@@ -1,11 +1,5 @@
 """
-See instructions in CSCI111_A5.pdf
-
-Be sure to rename this file Lastname_A5.py, using your last name
-in place of "Lastname".
-
-Your name: Keon Hayes
-
+@author: Keon Hayes
 """
 
 name1 = input("Please enter the name of runner #1: ")                               #Prompts user for runner #1's name.
